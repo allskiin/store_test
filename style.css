@@ -301,7 +301,7 @@
     transform: translate(-50%, -50%);
     width: 400px;
     height: 400px;
-    background: none;
+    background: var(--fundo);
     /* filter: blur(5px); */
     box-shadow: 1px 1px 20px rgba(0, 0, 0, 0.15);
     border-top-left-radius: 50px;
