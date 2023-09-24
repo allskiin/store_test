@@ -269,6 +269,21 @@
     background: var(--fundo);
 }
 
+/* cores nas imagens de destaque por enquanto */
+.nav1{
+    background-color: #614ad3;
+}
+.nav2{
+    background-color: #d34a4a;
+}
+.nav3{
+    background-color: #4abcd3;
+}
+.nav4{
+    background-color: #5ad34a;
+}
+/* cores nas imagens de destaque por enquanto */
+
 /* login */
 /* .login_main{
     width: 100%;
